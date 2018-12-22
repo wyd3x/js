@@ -1,7 +1,7 @@
 import { Component, Input } from '@angular/core';
 
 @Component({
-    selector: "js-header",
+    selector: "bwm-header",
     templateUrl: "./header.component.html",
     styleUrls: ["./header.component.scss"]
 })
